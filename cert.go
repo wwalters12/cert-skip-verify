@@ -15,7 +15,7 @@ import (
 	"time"
 )
 
-var SkipVerify = false
+var SkipVerify = true
 
 var UTC = false
 
